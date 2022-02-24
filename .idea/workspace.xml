@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32aef6f3-f0b8-4b7b-bdda-55d9f4889f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/app.aab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app.aab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/heven/taxicabondemandtaxi/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/userapp/azaniaexpress/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/ChooseLicenceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/ChooseNIActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/ChoosePhotoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/DriverVehicleActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/IntroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/IntroActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/activity/SubscribeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity/SubscribeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/CategoryVehicleAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/CategoryVehicleAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/CommentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/CommentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/DriverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/DriverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/FavoriteRideAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/FavoriteRideAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/LocationAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/LocationAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/PaymentMethodAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/PaymentMethodAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/RideAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/RideAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/RideBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/RideBookAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/RideBookDriverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/RideBookDriverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/RideDriverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/RideDriverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/TransactionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/TransactionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/adapter/VehiculeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/adapter/VehiculeAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/circleimage/CircleImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/circleimage/CircleImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/controller/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/controller/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/DatePickerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/DatePickerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/HorizontalPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/HorizontalPicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/HorizontalPickerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/HorizontalPickerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/HorizontalPickerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/HorizontalPickerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/HorizontalPickerRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/HorizontalPickerRecyclerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/datepicker/OnItemClickedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/datepicker/OnItemClickedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/directionhelpers/DataParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/directionhelpers/DataParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/directionhelpers/FetchURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/directionhelpers/FetchURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/directionhelpers/PointsParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/directionhelpers/PointsParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/directionhelpers/TaskLoadedCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/directionhelpers/TaskLoadedCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/firebase/MyFirebaseInstanceIdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/firebase/MyFirebaseInstanceIdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/firebase/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/firebase/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/FragmentMyWallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/FragmentMyWallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/FragmentProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/FragmentProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/BottomSheetFragmentBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/BottomSheetFragmentBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/BottomSheetFragmentBookingDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/BottomSheetFragmentBookingDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/BottomSheetFragmentBookingLater.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/BottomSheetFragmentBookingLater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/BottomSheetFragmentLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/BottomSheetFragmentLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentFavoriteRide.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentFavoriteRide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentLocationVehicule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentLocationVehicule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentMyLocationVehicule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentMyLocationVehicule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideBookingCanceled.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideBookingCanceled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideBookingConfirmed.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideBookingConfirmed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideBookingNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideBookingNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideCanceled.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideCanceled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideCompleted.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideCompleted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideConfirmed.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideConfirmed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/customer/FragmentRideOnRide.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/fragment/customer/FragmentRideOnRide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentDashboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideBookingConfirmedDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideBookingNewDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideBookingRejectedDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideCanceledDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideCompletedDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideConfirmedDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideNewDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/fragment/driver/FragmentRideOnRideDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/CategoryVehiclePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/CategoryVehiclePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/CommentPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/CommentPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/DrawerPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/DrawerPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/DriverPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/DriverPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/FavoriteRidePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/FavoriteRidePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/LocationPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/LocationPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/PaymentMethodPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/PaymentMethodPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/RideBookPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/RideBookPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/RidePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/RidePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/TaxiPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/TaxiPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/TransactionPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/TransactionPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/model/VehiculePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/model/VehiculePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/onclick/ClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/onclick/ClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/onclick/RecyclerTouchListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/onclick/RecyclerTouchListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/settings/AppConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/settings/AppConst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/settings/ConnectionDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/settings/ConnectionDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/heven/taxicabondemandtaxi/settings/PrefManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/settings/PrefManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_choose_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle_bg_call_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circle_bg_call_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_form_success_send.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_annuler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_annuler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_en_cours.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_en_cours.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_execute.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_execute.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_valide.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_statut_valide.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_success.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_bg_success.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_like.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_like.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_my_request.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_my_request.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_cash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_cash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_driver_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_driver_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_driver_unselect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_layout_destination.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_layout_destination.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrival_point.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_right_date.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_assistance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_assistance_outline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_assistance_outline.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_chat_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_check_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_list_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_location_on_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_people_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_pin_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile_con.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile_con.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_requete_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_statut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_team.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_team.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_tracking_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_wallet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_wallet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sample_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/taxi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_licence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_ni.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_photo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_credit_card.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_credit_card.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_driver_vehicle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_subscribe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_subscribe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_category_vehicle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_category_vehicle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_comments.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_comments.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_driver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_driver.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_favorite_ride.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_favorite_ride.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_location.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_location.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_payment_method.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_payment_method.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_ride_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_ride_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_ride_new_rider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_ride_new_rider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_transaction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/album_card_vehicule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/album_card_vehicule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_comments.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_comments.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_date_book.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_date_book.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_brand.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_brand.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_color.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_color.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_mail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_mail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_mdp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_mdp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_model.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_model.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_nom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_nom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_numberplate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_numberplate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_phone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_phone.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_prenom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_edit_prenom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_exactly_place.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_exactly_place.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_fav_name.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_fav_name.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_fav_ride.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_fav_ride.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_noter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_noter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_payment_amount.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_payment_amount.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_payment_method.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_payment_method.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_subscribe_success.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_subscribe_success.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_timeout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_timeout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_view_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout_view_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking_driver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking_driver.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking_later.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_booking_later.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_location.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_location.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_new_ride.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_new_ride_driver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_bottom_sheet_ride.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_ride.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_ride.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_location_vehicule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_location_vehicule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_my_wallet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_my_wallet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_confirmed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_confirmed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_rejected.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_booking_rejected.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_canceled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_canceled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_completed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_completed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_confirmed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_confirmed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_on_ride.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_ride_on_ride.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/horizontal_picker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/horizontal_picker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/recycler_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/recycler_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_profile_photo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_profile_photo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_car_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_car_marker_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_car_marker_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_car_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_car_marker_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_car_marker_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_car_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_car_marker_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_car_marker_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_car_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_car_marker_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_car_marker_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_car_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_car_marker_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_car_marker_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/heven/taxicabondemandtaxi/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/userapp/azaniaexpress/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/karandeepsingh/.android/avd/Pixel_5_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/Heven/Projets/Taxi Cab On Demand Taxi/Doc/TaxiCabOnDemandTaxiRider" />
+    <option name="KEY_ALIAS" value="TaxiCabOnDemandTaxi" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lZJm05GScIsdcX3Wr2ZSnMXsZs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_R" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-22T10:49:29.363Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/userapp/azaniaexpress/activity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="TaxiCabOnDemandTaxi.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32aef6f3-f0b8-4b7b-bdda-55d9f4889f20" name="Default Changelist" comment="" />
+      <created>1591189285041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591189285041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
